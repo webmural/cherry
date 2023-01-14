@@ -10,6 +10,11 @@
 
 :any-link {
   color: mistyrose;
+  text-decoration-style: double;
+  text-shadow:
+    -1vh 0 0 crimson,
+    1vw 1vh 0 crimson,
+    1vw -1vh 0 crimson;
 }
 
 :focus {
