@@ -1,5 +1,5 @@
 html {
-  font-size: calc(1ex + 8vmax);
+  font-size: max(5ex, 8vmax);
 }
 
 body {
